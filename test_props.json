@@ -1,0 +1,13 @@
+{
+	"budget" : {
+		"currentBudget" : 7000,
+		"totalBudget" : 7000,
+		"numWeeks" : 16
+	},
+	"costs" : {
+		"tivoli" : 7.50,
+		"urbannTurban" : 7,
+		"dyar" : 7.25,
+		"pappy" : 7.27
+	}
+}
